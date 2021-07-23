@@ -28,7 +28,7 @@ Customer churn, also known as customer depletion, occurs when customers stopped 
 * TotalCharges: the total amount charged to the customer
 * Churn: whether the customer churned or not (Yes or No)
 
-## 4. Exploratory Data Analysis
+## Exploratory Data Analysis
 
 #### Churn within the given population
 
@@ -36,7 +36,7 @@ Customer churn, also known as customer depletion, occurs when customers stopped 
 
 27% of the customers have churned.
 
-### 4.1 Categorical Data thats significant 
+### Categorical Data thats significant 
 
 #### Phone Service
 
